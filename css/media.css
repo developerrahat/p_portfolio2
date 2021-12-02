@@ -1,0 +1,138 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .rahat_tm_universal_box_wrap .content.hero {
+        padding: 310px 0;
+    }
+    .rahat_tm_hero_header_wrap .name_holder h3 {
+        margin-bottom:10px;
+        font-size: 28px;
+        font-weight: 700;
+    } 
+    .rahat_tm_hero_header_wrap .name_holder h3 span {
+        font-weight:700;
+        font-size: 28px;
+    }
+    .rahat_tm_hero_header_wrap .image_wrap {
+        margin-bottom: 45px;
+    }
+    .rahat_tm_title_holder {
+        padding-bottom: 30px;
+    }
+    .rahat_tm_title_holder h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .rahat_tm_title_holder span {
+        font-size: 14px;
+    }
+    .rahat_tm_mini_title_holder h4 {
+        line-height: 1.2;
+        font-size: 30px;
+    }
+    .rahat_tm_services_wrap .list_wrap ul li .inner {
+        height: inherit;
+        text-align: center;
+    }
+    .rahat_tm_skills_wrap .leftbox {
+        margin-bottom: 30px;
+    }
+    .rahat_tm_title_holder.portfolio {
+        padding-bottom: 40px;
+    }
+    .rahat_tm_testimonial_wrap .definitions_wrap p {
+        font-size: 19px;
+        line-height: 1.5;
+    }
+    .rahat_tm_title_holder.contact {
+        padding-bottom: 50px;
+    }
+    .arlo_tm_news_wrap .definitions_wrap {
+        padding: 21px 15px 15px 15px !important;
+    }
+    .rahat_tm_section {
+        padding: 30px 0;
+    }
+    .rahat_tm_contact_wrap_all .leftbox{width: 100%;padding-right: 0px;margin-bottom: 19px;}
+	.rahat_tm_contact_wrap_all .rightbox{width: 100%;float: none;}
+    .rahat_tm_skills_wrap .inner_wrap{flex-direction: column;}
+	.rahat_tm_skills_wrap .leftbox{padding-right: 0px;width: 100%;margin-bottom: 60px;}
+	.rahat_tm_skills_wrap .rightbox{width: 100%;padding-left: 0px;}
+
+   
+ 
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .rahat_tm_title_holder {
+        padding-bottom: 50px;
+    }
+    .arlo_tm_about_wrap {
+        float: left; 
+    }
+   
+    .rahat_tm_skills_wrap .inner_wrap {
+        display:inherit;
+    }
+    .rahat_tm_skills_wrap .leftbox {
+        width:100%;
+        padding: 20px 6px;
+    }
+    .rahat_tm_skills_wrap .rightbox {
+        width:100%;
+        padding:10px 6px;
+    }
+    .rahat_tm_services_wrap .list_wrap ul li .inner {
+       height: 240px;
+   
+ }
+ .rahat_tm_section {
+	padding: 50px 0;
+}
+.my_skill{
+    padding: 20px 0;
+}
+.rahat_tm_services_wrap .list_wrap ul li .inner {
+	height: 260px;
+	text-align: center;
+}
+.rahat_tm_contact_wrap_all .leftbox{width: 100%;padding-right: 0px;margin-bottom: 19px;}
+.rahat_tm_contact_wrap_all .rightbox{width: 100%;float: none;}
+.arlo_tm_mini_title_holder h4{
+    font-size: 23px;
+}
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .arlo_tm_mini_title_holder h4{
+        font-size: 30px;
+    }
+   
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .rahat_tm_universal_box_wrap .content.hero {
+        padding-top:400px;
+    }
+
+    
+    
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .rahat_tm_services_wrap .list_wrap ul li .inner{
+    height: 280px;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+ }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+ } 
